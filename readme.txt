@@ -26,7 +26,8 @@ Boei is cookie-free and GDPR proof
 
 = Supported integrations =
 
-The following integrations are supported in Boei. You can select as many options as you want. 
+The following integrations are supported in Boei. You can select as many options as you want.
+
 * WhatsApp
 * Facebook messenger
 * Telegram
@@ -60,6 +61,7 @@ The following integrations are supported in Boei. You can select as many options
 = Why you should stop using Live Chat =
 
 None of my friends like to use live chat because:
+
 1. Sometimes you don't get a reply
 1. You have to keep the tab with the chat open
 1. Sometimes you get a reply but you forgot to open the tab and the agent is already gone again
@@ -105,9 +107,10 @@ Send a message [using the Boei button on the website](https://www.boei.help/?utm
 
 == Screenshots ==
 
-1. Boei button on website
-2. Boei button opened
-3. Boei administration panel
+1. Boei button activated
+2. Boei button on your website
+3. Boei button with changed settings
+4. Boei administration panel
 
 == Upgrade Notice ==
 
